@@ -5,9 +5,10 @@
 <td width="50%" valign="top">
 
 ### Introduction
+
 - **Date:** Jun 28th, 2026
 - **Founder:** [Machine Kid myyerrol](https://github.com/myyerrol)
-- **Topics:** FPGA Prototype, ASIC Chip, Domain Specific Architecture, Physical AI, Embodied AI, Robot Chip, Robotic Computing, Robotics, etc
+- **Topics:** FPGA Prototype, ASIC Chip, Domain Specific Architecture, **Physical AI**, Embodied AI, Robot Chip, Robotic Computing, Robotics, etc
 - **Mission:** Building the Infrastructure and Ecosystem for the Next Generation of Intelligent Machines
 - **Vision:** Create a World Where Humanity and Intelligent Machines Coexist in Harmony
 - **Values:** Truth in Facts, Moving Ourselves, Pursuit of Excellence, Innovation Driven, Remaining Independent
@@ -17,6 +18,17 @@
 <td width="50%" valign="top">
 
 ### Project List
+
+- **Chip**
+    - **Name:** 惊雷JingLei
+    - **Note:** TBD
+- **Robot**
+    - **Name:** 暴风BaoFeng
+    - **Note:** TBD
+- **Cloud**
+    - **Name:** 凌云LingYun
+    - **Note:** TBD
+
 
 </td>
 </tr>
