@@ -29,11 +29,11 @@
 - **Robot**
     - **Name:** 暴风BaoFeng
     - **Type**
-        - **B:** Derived from the initial letter "B" of **Biomimetics**. It primarily focuses on bio-inspired structures, including legged, wheeled-legged, spherical, and flapping-wing morphologies (humanoid forms are excluded at this stage).
+        - **B:** Biomimetic Morphology. Derived from the initial letter "B" of **Biomimetics**. It primarily focuses on bio-inspired structures, including legged, wheeled-legged, spherical, and flapping-wing morphologies, etc.
 - **Cloud**
     - **Name:** 凌云LingYun
     - **Type**
-        - **L:** Derived from the initial letter "L" of **LingYun**. It integrates 3rd-party open-source RTL2GDS toolchains (such as ECOS Studio, LibreLane, etc.) and self-developed CHP2MCH tool.
+        - **L:** Solution. Derived from the initial letter "L" of **LingYun**. It integrates 3rd-party open-source RTL2GDS toolchains (such as ECOS Studio, LibreLane, etc.) and self-developed CHP2MCH tool.
 </td>
 </tr>
 </table>
