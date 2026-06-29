@@ -23,9 +23,9 @@
     - **Name:** 惊雷JingLei
     - **Note:** TBD
     - **Type**
-        - **R**: Custom Computing. It encompasses all modules related to robotics computation, including but not limited to the ROS protocol stack, hardware drivers, and control algorithms.
+        - **R**: Custom Computing. It encompasses all robotics-specific computing modules, including the ROS stack, hardware drivers, and control algorithms, etc.
         - **M**: General-Purpose Computing. It encompasses all modules associated with general-purpose computing.
-        - **S**: System Integration. It integrates Custom Computing, General-Purpose Computing, and third-party modules, enabling complete functional verification on both FPGA and ASIC platforms.
+        - **S**: System Integration. It integrates the R-Domain, M-Domain, and 3rd-party IPs, delivering full-stack functional verification across FPGA and ASIC targets.
 - **Robot**
     - **Name:** 暴风BaoFeng
     - **Note:** TBD
