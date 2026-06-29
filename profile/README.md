@@ -25,17 +25,17 @@
 - **Chip**
     - **Name:** 惊雷JingLei
     - **Type**
-        - **R:** Custom Computing. Derived from the initial letter "R" of **Robotics**. It encompasses all robotics-specific computing modules, including the ROS stack, hardware drivers, and control algorithms, etc.
-        - **M:** General-Purpose Computing. Derived from the initial letter "M" of **MicroController**. It encompasses all modules associated with general-purpose computing.
-        - **S:** System Integration. Derived from the initial letters "S" of **System** and **SoC**. It integrates the R-Domain, M-Domain, and 3rd-party IPs, delivering full-stack functional verification across FPGA and ASIC targets.
+        - **R:** Custom Computing. Derived from the initial letter "R" of **Robotics**. Robotics-Specific Computing Modules.
+        - **M:** General-Purpose Computing. Derived from the initial letter "M" of **MicroController**. General-Purpose Computing Modules.
+        - **S:** System Integration. Derived from the initial letters "S" of **System** and **SoC**. R-Domain + M-Domain + 3rd-Party IPs Chip across FPGA and ASIC.
 - **Robot**
     - **Name:** 暴风BaoFeng
     - **Type**
-        - **B:** Biomimetic Morphology. Derived from the initial letter "B" of **Biomimetics**. It primarily focuses on bio-inspired structures, including legged, wheeled-legged, spherical, and flapping-wing morphologies, etc.
+        - **B:** Biomimetic Morphology. Derived from the initial letter "B" of **Biomimetics**. Biomimetic Robots Including Legged, Wheeled-Legged, and Flapping-Wing Morphologies, etc.
 - **Cloud**
     - **Name:** 凌云LingYun
     - **Type**
-        - **L:** Solution. Derived from the initial letter "L" of **LingYun**. It integrates 3rd-party open-source RTL2GDS toolchains (such as ECOS Studio, LibreLane, etc.) and self-developed CHP2MCH tool.
+        - **L:** Solution. Derived from the initial letter "L" of **LingYun**. Cloud Platform Integrating 3rd-party Open-Source RTL2GDS Toolchains (such as ECOS Studio, LibreLane) and Self-Developed CHP2MCH Tool.
 </td>
 </tr>
 </table>
