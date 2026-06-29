@@ -15,6 +15,8 @@
 - **Values:** Truth in Facts, Moving Ourselves, Pursuit of Excellence, Innovation Driven, Remaining Independent
 - **Slogan:** Give Time and Space to Machines, Give Intelligence to the Future
 
+### Community & Resources
+
 </td>
 <td width="50%" valign="top">
 
