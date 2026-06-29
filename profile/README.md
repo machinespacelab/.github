@@ -1,4 +1,4 @@
-## Machine Science
+## Machine Space Lab
 
 <table>
 <tr align="justify">
@@ -16,7 +16,6 @@
 <td width="50%" valign="top">
 
 ### Project List
-- **:**
 
 </td>
 </tr>
