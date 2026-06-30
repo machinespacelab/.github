@@ -35,7 +35,7 @@
 - **Cloud**
     - **Name:** 凌云LingYun
     - **Type**
-        - **L:** Solution. Derived from the initial letter "L" of **LingYun**. Cloud Platform Integrating 3rd-party Open-Source RTL2GDS Toolchains (such as ECOS Studio, LibreLane) and Self-Developed CHP2MCH Tool.
+        - **C:** Solution. Derived from the initial letter "C" of **Cloud**. Cloud Platform Integrating 3rd-party Open-Source RTL2GDS Toolchains (such as ECOS Studio, LibreLane) and Self-Developed CHP2MCH Tool.
 </td>
 </tr>
 </table>
