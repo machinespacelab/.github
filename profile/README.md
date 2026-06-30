@@ -6,10 +6,10 @@
 
 ### Introduction
 
-- **Date:** Jun 28th, 2026
+- **Date:** Jun 30th, 2026
 - **Founder:** [Machine Kid myyerrol](https://github.com/myyerrol)
 - **Topics:** FPGA Prototype, ASIC Chip, Domain Specific Architecture, **Physical AI**, Embodied AI, Robot Chip, Robotic Computing, Robotics, etc
-- **Note:** TBD
+- **Description:** Machine Space is an integrated research group breaking the boundaries between software and the physical world. Through open-source methodologies, we cross-explore processors and robotics, **empowering open-source robots with custom open-source processors to drive the realization of Physical AI.** Furthermore, our end-to-end **RTL2MCH** automated pipeline enables hardware to be compiled as seamlessly as code, democratizing machine design for everyone.
 - **Mission:** Building the Infrastructure and Ecosystem for the Next-Generation of Intelligent Machines
 - **Vision:** Create a World Where Humanity and Intelligent Machines Coexist in Harmony
 - **Values:** Truth in Facts, Moving Ourselves, Pursuit of Excellence, Innovation Driven, Remaining Independent
